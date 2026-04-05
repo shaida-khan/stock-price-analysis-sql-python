@@ -1,5 +1,8 @@
 # Stock Price Analysis Using Python and SQL (AAPL)
 
+## 🚀 Open the Project
+👉 [View full notebook](./Stock_Revenue_Analysis.ipynb)
+
 ## Overview
 This project performs an end-to-end analysis of historical Apple (AAPL) stock price data using Python and SQL. The focus is on identifying trends, volatility patterns, and time-based behavior through data cleaning, aggregation, and visualization.
 
